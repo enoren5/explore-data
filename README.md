@@ -8,4 +8,7 @@
 - Unit 5: [Exercise - Visualize data with Matplotlib](https://docs.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/5-exercise-visualize-data)
 - Unit 6: [Examine real world data](https://docs.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/6-examine-real-world-data)
 
-### Part 3 - Data Science: https://youtu.be/D9LuRCb59wI
+### Part 3 - Data Science! [On YouTube](https://youtu.be/D9LuRCb59wI)
+- Unit 7: [Exercise - Examine real world data](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/7-exercise-real-world-data)
+- Unit 8: [Knowledge check](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/8-knowledge-check)
+- Unit 9: [Summary](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/9-summary)
